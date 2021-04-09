@@ -1,8 +1,3 @@
----
-layout: page
-title: Team META
----
-
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <div align="center">
