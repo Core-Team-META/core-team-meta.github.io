@@ -1,13 +1,5 @@
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <div align="center">
-
-# Team META
-
-Team META is a game development team on Core.
-
 ![Logo](https://avatars.githubusercontent.com/u/72576846?s=400&u=27ff91ebade0578e0ed52813c1b7dac40db8d80b&v=4)
-
 </div>
 
 <table>
@@ -116,6 +108,3 @@ Team META is a game development team on Core.
         </td>
     </tr>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
