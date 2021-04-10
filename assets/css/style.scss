@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #E5E6E5;
+}
+
 .page-header {
   background-color: #071047;
   background-image: linear-gradient(120deg, #0D2168, #071047);
@@ -20,4 +24,8 @@
 
 a {
   color: #17A2E7;
+}
+
+h2 {
+  color: #60CC29;
 }
