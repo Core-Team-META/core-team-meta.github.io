@@ -1,8 +1,4 @@
-<div align="center">
-
-![Logo](https://avatars.githubusercontent.com/u/72576846?s=400&u=27ff91ebade0578e0ed52813c1b7dac40db8d80b&v=4)
-
-</div>
+# Team META Members
 
 <table>
     <tr height="200" style="vertical-align: top;">
