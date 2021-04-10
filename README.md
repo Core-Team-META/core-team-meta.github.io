@@ -1,4 +1,10 @@
-# Team META Members
+<div align="center">
+
+# This is Team META
+
+</div>
+
+## Team META Members
 
 <table>
     <tr height="200" style="vertical-align: top;">
@@ -34,7 +40,14 @@
         </td>
         <td align="center" style="border:none"><a href="https://github.com/davidclarkdivide">
             <img src="https://avatars.githubusercontent.com/u/28601432?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>davidclarkdivide</b><br /><sub>(David Clark)</sub></a>
+            <sub><b>davidclarkdivide</b></sub><a/>
+            <br />
+            <sub>
+                <a href="https://www.coregames.com/user/eaba4947069846dbb72fc5efb0f04f47" title="Core Profile Link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
+                    Divided
+                </a>
+            </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/edmedina1">
             <img src="https://avatars.githubusercontent.com/u/60021740?v=4?s=100" height="100px;" alt=""/><br />
@@ -82,7 +95,14 @@
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/nicholasforeman">
             <img src="https://avatars.githubusercontent.com/u/39781044?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>nicholasforeman</b></sub><br /><sub>(Nicholas Foreman)</sub></a>
+            <sub><b>nicholasforeman</b></sub></a>
+            <br />
+            <sub>
+                <a href="https://www.coregames.com/user/f9df3457225741c89209f6d484d0eba8" title="Core Profile Link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
+                    Nicholas Foreman
+                </a>
+            </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/PatrickCosim">
             <img src="https://avatars.githubusercontent.com/u/55603848?v=4?s=100" height="100px;" alt=""/><br />
@@ -106,3 +126,4 @@
         </td>
     </tr>
 </table>
+
