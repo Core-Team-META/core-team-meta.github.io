@@ -14,8 +14,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/d6d9d578840a44c79a3f05c15de23bf8" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Aggripina
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -25,8 +24,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/557d4f1ae17646579646dfd20dcb7b66" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    AwkwardGameDev
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -36,8 +34,7 @@
             <br />
             <sub>
                 <a href="#" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    beneilts
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -47,8 +44,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/0ea6612ceab7456a8a3a963a94808295" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    blaking707
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -58,8 +54,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/901b7628983c4c8db4282f24afeda57a" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Buckmonster
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -69,8 +64,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/d5daea732ee3422fbe85aecb900e73ec" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Coderz
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -82,19 +76,17 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/1f0588bf88d14c258d7384902f71f132" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Daddio
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/davidclarkdivide">
             <img src="https://avatars.githubusercontent.com/u/28601432?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>davidclarkdivide</b></sub><a/>
+            <sub><b>davidclarkdivide</b></sub></a>
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/eaba4947069846dbb72fc5efb0f04f47" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Divided
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -104,8 +96,7 @@
             <br />
             <sub>
                 <a href="#" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    edmedina1
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -115,8 +106,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/1bb46017e7794546b00b24b93ea9190e" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    emtastik
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -126,8 +116,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/b4c6e32137e54571814b5e8f27aa2fcd" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    standardcombo
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -137,8 +126,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/351a5da3ecd64f3caad29991c2294c25" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Junster09
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -146,7 +134,13 @@
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Keppuli">
             <img src="https://avatars.githubusercontent.com/u/34177254?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>Keppuli</b></sub><br /><sub>(Antti Koponen)</sub></a>
+            <sub><b>Keppuli</b></sub></a>
+            <br />
+            <sub>
+                <a href="#" title="Core Profile Link" class="core-link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
+                </a>
+            </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Melamoryxq">
             <img src="https://avatars.githubusercontent.com/u/70032767?v=4?s=100" height="100px;" alt=""/><br />
@@ -154,14 +148,19 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/9cc8d222e6d14da68dc2ba0a9a4f0439" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Melamoryxq
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/MJC782">
             <img src="https://avatars.githubusercontent.com/u/62568866?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>MJC782</b></sub><br /><sub>(Julie Cortes)</sub></a>
+            <sub><b>MJC782</b></sub></a>
+            <br />
+            <sub>
+                <a href="#" title="Core Profile Link" class="core-link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
+                </a>
+            </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Montoli">
             <img src="https://avatars.githubusercontent.com/u/194759?v=4?s=100" height="100px;" alt=""/><br />
@@ -169,8 +168,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/d97586e1f850481da13ee26d5cbddc02" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Chris
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -180,8 +178,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/d1073dbcc404405cbef8ce728e53d380" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Morticai
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -191,8 +188,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/94d3fd50c4824f019421895ec8dbf099" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Mucusinator
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -204,14 +200,19 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/f9df3457225741c89209f6d484d0eba8" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Nicholas Foreman
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/PatrickCosim">
             <img src="https://avatars.githubusercontent.com/u/55603848?v=4?s=100" height="100px;" alt=""/><br />
-            <sub><b>PatrickCosim</b></sub><br /><sub>(Patrick Cosim)</sub></a>
+            <sub><b>PatrickCosim</b></sub></a>
+            <br />
+            <sub>
+                <a href="#" title="Core Profile Link" class="core-link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
+                </a>
+            </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Rolok">
             <img src="https://avatars.githubusercontent.com/u/16053610?v=4?s=100" height="100px;" alt=""/><br />
@@ -219,8 +220,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/1f67a03d5a8f478b993aad1c79b45640" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Rolok
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -230,8 +230,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/400d8e7acb154e5bb64368411824b61d" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Bigglebuns
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -241,8 +240,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/581ff579fd864966aec56450754db1fb" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    Waffle
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
@@ -252,8 +250,7 @@
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/e730c40ae54d4c588658667927acc6d8" title="Core Profile Link" class="core-link">
-                    <img src="https://www.coregames.com/CoreIcon_192x192.png" width="16px" height="16px" />
-                    WitcherSilver
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
         </td>
