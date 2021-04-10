@@ -4,7 +4,7 @@
 
 </div>
 
-## Team META Members
+## Team META Leaders
 
 <table>
     <tr height="200" style="vertical-align: top;">
@@ -58,6 +58,13 @@
                 </a>
             </sub>
         </td>
+    </tr>
+</table>
+
+## Team META Members
+
+<table>
+    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/CoderzNation">
             <img src="https://avatars.githubusercontent.com/u/17634295?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>CoderzNation</b></sub></a>
@@ -68,14 +75,22 @@
                 </a>
             </sub>
         </td>
-    </tr>
-    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Daddio66">
             <img src="https://avatars.githubusercontent.com/u/13610914?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>Daddio66</b></sub></a>
             <br />
             <sub>
                 <a href="https://www.coregames.com/user/1f0588bf88d14c258d7384902f71f132" title="Daddio Core Profile Link" class="core-link">
+                    <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
+                </a>
+            </sub>
+        </td>
+        <td align="center" style="border:none"><a href="https://github.com/datonare">
+            <img src="https://avatars.githubusercontent.com/u/21184471?v=4s=100" height="100px;" alt=""/><br />
+            <sub><b>Datonare</b></sub></a>
+            <br />
+            <sub>
+                <a href="https://www.coregames.com/user/0b63f4ffba9c4518b50e4f815a9ec51a" title="Datonare Core Profile Link" class="core-link">
                     <img src="https://www.coregames.com/CoreIcon_192x192.png" class="core-image" />
                 </a>
             </sub>
@@ -110,6 +125,8 @@
                 </a>
             </sub>
         </td>
+    </tr>
+    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/gabrielAtManticore">
             <img src="https://avatars.githubusercontent.com/u/25258203?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>gabrielAtManticore</b></sub></a>
@@ -130,8 +147,6 @@
                 </a>
             </sub>
         </td>
-    </tr>
-    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Keppuli">
             <img src="https://avatars.githubusercontent.com/u/34177254?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>Keppuli</b></sub></a>
@@ -172,6 +187,8 @@
                 </a>
             </sub>
         </td>
+    </tr>
+    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/morticai">
             <img src="https://avatars.githubusercontent.com/u/1882524?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>morticai</b></sub></a>
@@ -182,7 +199,7 @@
                 </a>
             </sub>
         </td>
-        <td align="center" style="border:none"><a href="https://github.com/Mucusinator">
+         <td align="center" style="border:none"><a href="https://github.com/Mucusinator">
             <img src="https://avatars.githubusercontent.com/u/13678882?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>Mucusinator</b></sub></a>
             <br />
@@ -192,8 +209,6 @@
                 </a>
             </sub>
         </td>
-    </tr>
-    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/nicholasforeman">
             <img src="https://avatars.githubusercontent.com/u/39781044?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>nicholasforeman</b></sub></a>
@@ -234,6 +249,8 @@
                 </a>
             </sub>
         </td>
+    </tr>
+    <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Waffle3z">
             <img src="https://avatars.githubusercontent.com/u/4744353?v=4?s=100" height="100px;" alt=""/><br />
             <sub><b>Waffle3z</b></sub></a>
