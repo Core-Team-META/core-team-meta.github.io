@@ -273,3 +273,7 @@
         </td>
     </tr>
 </table>
+
+## Team META Projects
+
+[Click here](https://github.com/Core-Team-META) to browse all META projects.
