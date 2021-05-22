@@ -4,17 +4,18 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #E5E6E5;
+  background-color: #F2F2F2;
 }
 
 .page-header {
-  background-color: #071047;
-  background-image: linear-gradient(120deg, #0D2168, #071047);
+  background-color: #1A1A1A;
+  background-image: none;
 }
 
 .project-name {
-  background: url(https://i.imgur.com/9K8iyuN.png) no-repeat center center;
+  background: url(https://i.imgur.com/zZoS4z0.png) no-repeat center center;
   color: transparent;
+  background-size: contain;
 }
 
 .core-image {
