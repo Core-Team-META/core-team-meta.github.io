@@ -66,7 +66,7 @@
 <table>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/CoderzNation">
-            {% avatar CoderzNation size=100 lazy=true %}
+            {% avatar CoderzNation size=100 %}
             <sub><b>CoderzNation</b></sub></a>
             <br />
             <sub>
