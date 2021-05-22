@@ -66,7 +66,7 @@
 <table>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/CoderzNation">
-            <img src="https://avatars.githubusercontent.com/u/17634295?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar CoderzNation size=100 lazy=true %}
             <sub><b>CoderzNation</b></sub></a>
             <br />
             <sub>
