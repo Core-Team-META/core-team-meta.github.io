@@ -3,3 +3,5 @@ name: Team META
 title: Team META
 description: Team META is a game development team on Core.
 markdown: GFM
+plugins:
+  - jekyll-avatar
