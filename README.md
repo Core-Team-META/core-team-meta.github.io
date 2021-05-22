@@ -9,7 +9,7 @@
 <table>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Aggripina">
-            {% avatar Aggripina size=100 %}
+            {% avatar Aggripina size=90 %}
             <sub><b>Aggripina</b></sub></a>
             <br />
             <sub>
@@ -19,7 +19,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/AwkwardGameDev">
-            {% avatar AwkwardGameDev size=100 %}
+            {% avatar AwkwardGameDev size=90 %}
             <sub><b>AwkwardGameDev</b></sub></a>
             <br />
             <sub>
@@ -29,7 +29,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/beneilts">
-            {% avatar beneilts size=100 %}
+            {% avatar beneilts size=90 %}
             <sub><b>beneilts</b></sub></a>
             <br />
             <sub>
@@ -39,7 +39,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/blaking707">
-            {% avatar blaking707 size=100 %}
+            {% avatar blaking707 size=90 %}
             <sub><b>blaking707</b></sub></a>
             <br />
             <sub>
@@ -49,7 +49,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/BuckmonsterCORE">
-            {% avatar BuckmonsterCORE size=100 %}
+            {% avatar BuckmonsterCORE size=90 %}
             <sub><b>BuckmonsterCORE</b></sub></a>
             <br />
             <sub>
@@ -66,7 +66,7 @@
 <table>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/CoderzNation">
-            {% avatar CoderzNation size=100 %}
+            {% avatar CoderzNation size=90 %}
             <sub><b>CoderzNation</b></sub></a>
             <br />
             <sub>
@@ -76,7 +76,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Daddio66">
-            {% avatar Daddio66 size=100 %}
+            {% avatar Daddio66 size=90 %}
             <sub><b>Daddio66</b></sub></a>
             <br />
             <sub>
@@ -86,7 +86,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/datonare">
-            {% avatar datonare size=100 %}
+            {% avatar datonare size=90 %}
             <sub><b>Datonare</b></sub></a>
             <br />
             <sub>
@@ -96,7 +96,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/davidclarkdivide">
-            {% avatar davidclarkdivide size=100 %}
+            {% avatar davidclarkdivide size=90 %}
             <sub><b>davidclarkdivide</b></sub></a>
             <br />
             <sub>
@@ -106,7 +106,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/edmedina1">
-            {% avatar edmedina1 size=100 %}
+            {% avatar edmedina1 size=90 %}
             <sub><b>edmedina1</b></sub></a>
             <br />
             <sub>
@@ -116,7 +116,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/emtastik">
-            {% avatar emtastik size=100 %}
+            {% avatar emtastik size=90 %}
             <sub><b>emtastik</b></sub></a>
             <br />
             <sub>
@@ -128,7 +128,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/gabrielAtManticore">
-            {% avatar gabrielAtManticore size=100 %}
+            {% avatar gabrielAtManticore size=90 %}
             <sub><b>gabrielAtManticore</b></sub></a>
             <br />
             <sub>
@@ -138,7 +138,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/junster09">
-            {% avatar junster09 size=100 %}
+            {% avatar junster09 size=90 %}
             <sub><b>junster09</b></sub></a>
             <br />
             <sub>
@@ -148,7 +148,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Keppuli">
-            {% avatar Keppuli size=100 %}
+            {% avatar Keppuli size=90 %}
             <sub><b>Keppuli</b></sub></a>
             <br />
             <sub>
@@ -158,7 +158,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Melamoryxq">
-            {% avatar Melamoryxq size=100 %}
+            {% avatar Melamoryxq size=90 %}
             <sub><b>Melamoryxq</b></sub></a>
             <br />
             <sub>
@@ -168,7 +168,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/MJC782">
-            {% avatar MJC782 size=100 %}
+            {% avatar MJC782 size=90 %}
             <sub><b>MJC782</b></sub></a>
             <br />
             <sub>
@@ -178,7 +178,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Montoli">
-            {% avatar Montoli size=100 %}
+            {% avatar Montoli size=90 %}
             <sub><b>Montoli</b></sub></a>
             <br />
             <sub>
@@ -190,7 +190,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/morticai">
-            {% avatar morticai size=100 %}
+            {% avatar morticai size=90 %}
             <sub><b>morticai</b></sub></a>
             <br />
             <sub>
@@ -200,7 +200,7 @@
             </sub>
         </td>
          <td align="center" style="border:none"><a href="https://github.com/Mucusinator">
-            {% avatar Mucusinator size=100 %}
+            {% avatar Mucusinator size=90 %}
             <sub><b>Mucusinator</b></sub></a>
             <br />
             <sub>
@@ -210,7 +210,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/nicholasforeman">
-            {% avatar nicholasforeman size=100 %}
+            {% avatar nicholasforeman size=90 %}
             <sub><b>nicholasforeman</b></sub></a>
             <br />
             <sub>
@@ -220,7 +220,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/PatrickCosim">
-            {% avatar PatrickCosim size=100 %}
+            {% avatar PatrickCosim size=90 %}
             <sub><b>PatrickCosim</b></sub></a>
             <br />
             <sub>
@@ -230,7 +230,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Rolok">
-            {% avatar Rolok size=100 %}
+            {% avatar Rolok size=90 %}
             <sub><b>Rolok</b></sub></a>
             <br />
             <sub>
@@ -240,7 +240,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/ryancgrant">
-            {% avatar ryancgrant size=100 %}
+            {% avatar ryancgrant size=90 %}
             <sub><b>ryancgrant</b></sub></a>
             <br />
             <sub>
@@ -252,7 +252,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Waffle3z">
-            {% avatar Waffle3z size=100 %}
+            {% avatar Waffle3z size=90 %}
             <sub><b>Waffle3z</b></sub></a>
             <br />
             <sub>
@@ -262,7 +262,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/WitcherSilver">
-            {% avatar WitcherSilver size=100 %}
+            {% avatar WitcherSilver size=90 %}
             <sub><b>WitcherSilver</b></sub></a>
             <br />
             <sub>
