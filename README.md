@@ -1,15 +1,15 @@
 <div align="center">
 
-# This is Team META
+<h1>This is Team META</h1>
 
 </div>
 
-## Team META Leaders
+<h2>Team META Leaders</h2>
 
 <table>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Aggripina">
-            <img src="https://avatars.githubusercontent.com/u/68454134?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Aggripina size=100 %}
             <sub><b>Aggripina</b></sub></a>
             <br />
             <sub>
@@ -19,7 +19,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/AwkwardGameDev">
-            <img src="https://avatars.githubusercontent.com/u/55956768?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar AwkwardGameDev size=100 %}
             <sub><b>AwkwardGameDev</b></sub></a>
             <br />
             <sub>
@@ -29,7 +29,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/beneilts">
-            <img src="https://avatars.githubusercontent.com/u/36256880?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar beneilts size=100 %}
             <sub><b>beneilts</b></sub></a>
             <br />
             <sub>
@@ -39,7 +39,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/blaking707">
-            <img src="https://avatars.githubusercontent.com/u/46813060?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar blaking707 size=100 %}
             <sub><b>blaking707</b></sub></a>
             <br />
             <sub>
@@ -49,7 +49,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/BuckmonsterCORE">
-            <img src="https://avatars.githubusercontent.com/u/58750748?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar BuckmonsterCORE size=100 %}
             <sub><b>BuckmonsterCORE</b></sub></a>
             <br />
             <sub>
@@ -61,7 +61,7 @@
     </tr>
 </table>
 
-## Team META Members
+<h2>Team META Members</h2>
 
 <table>
     <tr height="200" style="vertical-align: top;">
@@ -274,6 +274,6 @@
     </tr>
 </table>
 
-## Team META Projects
+<h2>Team META Projects</h2>
 
-[Click here](https://github.com/Core-Team-META) to browse all META projects.
+<a href="https://github.com/Core-Team-META" title="META Organization on GitHub">Click here</a> to browse all META projects.
