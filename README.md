@@ -276,4 +276,4 @@
 
 <h2>Team META Projects</h2>
 
-You can check out all of the <a href="https://github.com/Core-Team-META" title="META Organization on GitHub">META projects.</a> on our GitHub organization page.
+You can check out all of the <a href="https://github.com/Core-Team-META" title="META Organization on GitHub">META projects</a> on our GitHub organization page.
