@@ -76,7 +76,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Daddio66">
-            <img src="https://avatars.githubusercontent.com/u/13610914?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Daddio66 size=100 %}
             <sub><b>Daddio66</b></sub></a>
             <br />
             <sub>
@@ -86,7 +86,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/datonare">
-            <img src="https://avatars.githubusercontent.com/u/21184471?v=4s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar datonare size=100 %}
             <sub><b>Datonare</b></sub></a>
             <br />
             <sub>
@@ -96,7 +96,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/davidclarkdivide">
-            <img src="https://avatars.githubusercontent.com/u/28601432?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar davidclarkdivide size=100 %}
             <sub><b>davidclarkdivide</b></sub></a>
             <br />
             <sub>
@@ -106,7 +106,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/edmedina1">
-            <img src="https://avatars.githubusercontent.com/u/60021740?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar edmedina1 size=100 %}
             <sub><b>edmedina1</b></sub></a>
             <br />
             <sub>
@@ -116,7 +116,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/emtastik">
-            <img src="https://avatars.githubusercontent.com/u/6035115?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar emtastik size=100 %}
             <sub><b>emtastik</b></sub></a>
             <br />
             <sub>
@@ -128,7 +128,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/gabrielAtManticore">
-            <img src="https://avatars.githubusercontent.com/u/25258203?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar gabrielAtManticore size=100 %}
             <sub><b>gabrielAtManticore</b></sub></a>
             <br />
             <sub>
@@ -138,7 +138,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/junster09">
-            <img src="https://avatars.githubusercontent.com/u/27649149?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar junster09 size=100 %}
             <sub><b>junster09</b></sub></a>
             <br />
             <sub>
@@ -148,7 +148,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Keppuli">
-            <img src="https://avatars.githubusercontent.com/u/34177254?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Keppuli size=100 %}
             <sub><b>Keppuli</b></sub></a>
             <br />
             <sub>
@@ -158,7 +158,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Melamoryxq">
-            <img src="https://avatars.githubusercontent.com/u/70032767?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Melamoryxq size=100 %}
             <sub><b>Melamoryxq</b></sub></a>
             <br />
             <sub>
@@ -168,7 +168,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/MJC782">
-            <img src="https://avatars.githubusercontent.com/u/62568866?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar MJC782 size=100 %}
             <sub><b>MJC782</b></sub></a>
             <br />
             <sub>
@@ -178,7 +178,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Montoli">
-            <img src="https://avatars.githubusercontent.com/u/194759?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Montoli size=100 %}
             <sub><b>Montoli</b></sub></a>
             <br />
             <sub>
@@ -190,7 +190,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/morticai">
-            <img src="https://avatars.githubusercontent.com/u/1882524?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar morticai size=100 %}
             <sub><b>morticai</b></sub></a>
             <br />
             <sub>
@@ -200,7 +200,7 @@
             </sub>
         </td>
          <td align="center" style="border:none"><a href="https://github.com/Mucusinator">
-            <img src="https://avatars.githubusercontent.com/u/13678882?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Mucusinator size=100 %}
             <sub><b>Mucusinator</b></sub></a>
             <br />
             <sub>
@@ -210,7 +210,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/nicholasforeman">
-            <img src="https://avatars.githubusercontent.com/u/39781044?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar nicholasforeman size=100 %}
             <sub><b>nicholasforeman</b></sub></a>
             <br />
             <sub>
@@ -220,7 +220,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/PatrickCosim">
-            <img src="https://avatars.githubusercontent.com/u/55603848?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar PatrickCosim size=100 %}
             <sub><b>PatrickCosim</b></sub></a>
             <br />
             <sub>
@@ -230,7 +230,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/Rolok">
-            <img src="https://avatars.githubusercontent.com/u/16053610?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Rolok size=100 %}
             <sub><b>Rolok</b></sub></a>
             <br />
             <sub>
@@ -240,7 +240,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/ryancgrant">
-            <img src="https://avatars.githubusercontent.com/u/27972135?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar ryancgrant size=100 %}
             <sub><b>ryancgrant</b></sub></a>
             <br />
             <sub>
@@ -252,7 +252,7 @@
     </tr>
     <tr height="200" style="vertical-align: top;">
         <td align="center" style="border:none"><a href="https://github.com/Waffle3z">
-            <img src="https://avatars.githubusercontent.com/u/4744353?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar Waffle3z size=100 %}
             <sub><b>Waffle3z</b></sub></a>
             <br />
             <sub>
@@ -262,7 +262,7 @@
             </sub>
         </td>
         <td align="center" style="border:none"><a href="https://github.com/WitcherSilver">
-            <img src="https://avatars.githubusercontent.com/u/68162122?v=4?s=100" width="100px" height="100px;" alt="Avatar"/><br />
+            {% avatar WitcherSilver size=100 %}
             <sub><b>WitcherSilver</b></sub></a>
             <br />
             <sub>
